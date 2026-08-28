@@ -1,7 +1,7 @@
 # Bank-Account-Management-System
 A feature-rich Bank Account Management System built with C++17. Create savings or current accounts, use PIN authentication, deposit, withdraw and transfer money, view mini statements, set savings goals, apply interest, freeze accounts and save all records using file handling. An educational project demonstrating OOP, STL and input validation.
 
-======================================= Nova Bank – Bank Account Management System =======================================================
+============================= Nova Bank – Bank Account Management System ==========================
 
 A console-based Bank Account Management System developed in C++17. It simulates essential banking operations while demonstrating object-oriented programming, file handling, input validation, data structures, and transaction management.
 
